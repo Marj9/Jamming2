@@ -1,4 +1,4 @@
-import React from 'React';
+import React from 'react';
 import './App.css';
 
 import SearchBar from '../SearchBar/SearchBar';
